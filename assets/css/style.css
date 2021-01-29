@@ -68,8 +68,8 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-.content {
+/* selector was changed from class to html5 element */
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
